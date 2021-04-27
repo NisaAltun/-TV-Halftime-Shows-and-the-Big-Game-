@@ -5,11 +5,11 @@ This was the first full project I made during "Data Scientist with Python" study
 
 Topics:
 
-Data Manipulation
+-Data Manipulation
 
-Data Visualization
+-Data Visualization
 
-Importing & Cleaning Data
+-Importing & Cleaning Data
 
 
 
